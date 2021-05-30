@@ -5,7 +5,7 @@
 
 ## Prerequisites
 - Have knowledge about Reactjs.
-- Have knowledge about Express and PosgresSQL databases.
+- Have knowledge about Express and PosgreSQL databases.
 - Know about REST API's.
 
 ### Follow the steps below to install it on your local machine.
