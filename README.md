@@ -1,6 +1,6 @@
 # Vivago
 ![vivago](https://user-images.githubusercontent.com/53038576/120110610-cc788f00-c18b-11eb-92eb-94c30f35ea0a.png)
-Authentication using Express and Postgres
+## Authentication using Express and Postgres
 ![Chat with souvikn17@gmail com - Google Chrome 30-05-2021 21_14_04](https://user-images.githubusercontent.com/53038576/120110680-1497b180-c18c-11eb-9159-c74f1fd30714.png)
 
 ## Prerequisites
